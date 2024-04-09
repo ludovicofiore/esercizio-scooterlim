@@ -1,0 +1,64 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    padding: 70px;
+    background-color: rgba(0, 0, 0, 0.45);
+    border-radius: 20px;
+}
+
+header>img {
+    width: 200px;
+}
+
+header {
+    text-align: center;
+    color: rgba(0,221,0,255);
+}
+
+nav {
+    background-color: rgba(0,221,0,255);
+    text-align: center;
+    padding: 10px;
+}
+
+
+h3 {
+    display: inline-block;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.livello-carica-gino {
+    background-color: orange;
+    width: 40%;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.livello-carica-mike {
+    background-color: rgba(0,221,0,255);
+    width: 65%;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.livello-carica-fede {
+    background-color: red;
+    width: 20%;
+    height: 30px;
+    border-radius: 10px;
+}
+
+
+
+section>p {
+    margin: 2px;
+    color: white;
+}
